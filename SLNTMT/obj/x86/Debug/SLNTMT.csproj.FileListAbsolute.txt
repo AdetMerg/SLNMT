@@ -1,0 +1,9 @@
+/home/cpyrg/Projects/SLNTMT/SLNTMT/bin/Debug/SLNTMT.exe
+/home/cpyrg/Projects/SLNTMT/SLNTMT/bin/Debug/SLNTMT.pdb
+/home/cpyrg/Projects/SLNTMT/SLNTMT/obj/x86/Debug/SLNTMT.csprojAssemblyReference.cache
+/home/cpyrg/Projects/SLNTMT/SLNTMT/obj/x86/Debug/SLNTMT.csproj.CoreCompileInputs.cache
+/home/cpyrg/Projects/SLNTMT/SLNTMT/obj/x86/Debug/SLNTMT.exe
+/home/cpyrg/Projects/SLNTMT/SLNTMT/obj/x86/Debug/SLNTMT.pdb
+/home/cpyrg/Projects/SLNTMT/SLNTMT/bin/Debug/WebDriver.dll
+/home/cpyrg/Projects/SLNTMT/SLNTMT/bin/Debug/WebDriver.xml
+/home/cpyrg/Projects/SLNTMT/SLNTMT/obj/x86/Debug/SLNTMT.csproj.CopyComplete

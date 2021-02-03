@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SLNTMT", "SLNTMT\SLNTMT.csproj", "{6A615DA9-B33A-4B83-878B-B1058D2DF141}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A615DA9-B33A-4B83-878B-B1058D2DF141}.Debug|x86.ActiveCfg = Debug|x86
+		{6A615DA9-B33A-4B83-878B-B1058D2DF141}.Debug|x86.Build.0 = Debug|x86
+		{6A615DA9-B33A-4B83-878B-B1058D2DF141}.Release|x86.ActiveCfg = Release|x86
+		{6A615DA9-B33A-4B83-878B-B1058D2DF141}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

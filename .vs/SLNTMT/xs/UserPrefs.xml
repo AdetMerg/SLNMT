@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{6A615DA9-B33A-4B83-878B-B1058D2DF141}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SLNTMT/Program.cs">
+    <Files>
+      <File FileName="SLNTMT/Program.cs" Line="214" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SLNTMT" expanded="True">
+            <Node name="SLNTMT" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SLNTMT PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
